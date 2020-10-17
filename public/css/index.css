@@ -15,7 +15,7 @@ body{font-family: "PingFangSCRegular";}
 .headline .nav .active a{color: #20bd9a;}
 .headline .nav-link{text-decoration: none; color: rgba(0,0,0,.85);}
 
-.desc{padding-top: 30px; display: flex; justify-content: space-between; flex-wrap: wrap; width: 1154px; height: 634px; position: absolute; display: none;}
+.desc{padding-top: 30px; justify-content: space-between; flex-wrap: wrap; width: 1154px; height: 634px; position: absolute; display: none;}
 .desc .big-grid{width: 560px; height: 270px; position: relative; overflow: hidden;}
 .desc .tag{
   position: absolute;
@@ -128,7 +128,7 @@ body{font-family: "PingFangSCRegular";}
 
 /* 当地玩乐 */
 .ddwl{padding-top: 40px; height: 583px; background-color: #f7f7f7;}
-.ddwl .desc{display: flex; padding-top: 32px;}
+.ddwl .desc{padding-top: 32px;}
 .ddwl .desc .col{
   width: 364px;height: 480px;
 }
